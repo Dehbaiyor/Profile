@@ -1,9 +1,9 @@
 # Profile
 ![image.png](https://github.com/Dehbaiyor/dehbaiyor.github.io/raw/master/PXL_20210228_074948861.PORTRAIT.jpg)
 # Contact 
-- https://www.linkedin.com/in/adebayo-oshingbesan 
-- oshingbesanadebayo@gmail.com 
-- https://github.com/Dehbaiyor
+- [LinkedIn](https://www.linkedin.com/in/adebayo-oshingbesan)
+- [Email](oshingbesanadebayo@gmail.com)
+- [Github](https://github.com/Dehbaiyor)
 
 # PROFESSIONAL SUMMARY 
 Machine learning engineer with 4 years of experience in using data analytics and machine learning to enhance processes and outcomes. Interested in applying skills in roles aimed at enhancing the utility of data-driven products while developing and acquiring new skills.  
