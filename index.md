@@ -1,9 +1,9 @@
 # Profile
 ![image.png](https://github.com/Dehbaiyor/dehbaiyor.github.io/raw/master/PXL_20210228_074948861.PORTRAIT.jpg)
 # Contact 
-- [LinkedIn](https://www.linkedin.com/in/adebayo-oshingbesan)
-- [Email](oshingbesanadebayo@gmail.com)
-- [Github](https://github.com/Dehbaiyor)
+- https://www.linkedin.com/in/adebayo-oshingbesan 
+- oshingbesanadebayo@gmail.com 
+- https://github.com/Dehbaiyor
 
 # PROFESSIONAL SUMMARY 
 Machine learning engineer with 4 years of experience in using data analytics and machine learning to enhance processes and outcomes. Interested in applying skills in roles aimed at enhancing the utility of data-driven products while developing and acquiring new skills.  
@@ -66,6 +66,18 @@ Certification in Data Science, 2019
 ### Improving the Matching for Job Seekers and Employers 
 - Created a job-skill mapping and ranking algorithm using a hybrid of collaborative filtering and content-based recommendations to help blue-collar workers get jobs faster and easier.
 
+### Leak Detection in Natural Gas Pipelines Using Intelligent Models.
+- Researched the use of data science techniques along machine learning models to detect small leaks in natural gas pipelines and mitigate the effects of gas emissions into the atmosphere.
+
+### Mental Health Challenge Susceptibility Prediction Using Exogenous Factors
+- Evaluated the possibility of detecting people liable to depression from exogenous factors by leveraging machine learning models.
+
+### ML-Assisted Malnutrition Risk Identification in Children
+- Designed a framework the use of explainable machine learning to help quantify malnutrition risks in children using demographic and health records of both the nursing mother and child. 
+
+### Natural Language Generation for Low Resourced Languages Using Sequence Models
+- Investigated the application of sequence models such as Hidden Markov Models, Recurrent Neural Network, and its variants in generating proverbs/sayings in Yoruba and Nigerian Pidgin languages
+
 ### Semantic Segmentation of Crop Images Using Deep Learning
 - Implemented a deep learning-based crop segmentation tool to carry out semantic segmentation of maize crops to determine if they are ready for harvest or not.
 
@@ -90,8 +102,3 @@ Certification in Data Science, 2019
 - 5-time recipient, Annual Deans’ Honors Award – University of Ibadan, 2014 – 2019. 
 - 3rd Position, Data Science Nigeria National Hackathon, October 2019. 
 - Recipient, CIT Dean's Fellowship Fund, Carnegie Mellon University.
-
-
-```python
-
-```
