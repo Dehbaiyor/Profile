@@ -66,6 +66,18 @@ Certification in Data Science, 2019
 ### Improving the Matching for Job Seekers and Employers 
 - Created a job-skill mapping and ranking algorithm using a hybrid of collaborative filtering and content-based recommendations to help blue-collar workers get jobs faster and easier.
 
+### Leak Detection in Natural Gas Pipelines Using Intelligent Models.
+- Researched the use of data science techniques along machine learning models to detect small leaks in natural gas pipelines and mitigate the effects of gas emissions into the atmosphere.
+
+### Mental Health Challenge Susceptibility Prediction Using Exogenous Factors
+- Evaluated the possibility of detecting people liable to depression from exogenous factors by leveraging machine learning models.
+
+### ML-Assisted Malnutrition Risk Identification in Children
+- Designed a framework the use of explainable machine learning to help quantify malnutrition risks in children using demographic and health records of both the nursing mother and child. 
+
+### Natural Language Generation for Low Resourced Languages Using Sequence Models
+- Investigated the application of sequence models such as Hidden Markov Models, Recurrent Neural Network, and its variants in generating proverbs/sayings in Yoruba and Nigerian Pidgin languages
+
 ### Semantic Segmentation of Crop Images Using Deep Learning
 - Implemented a deep learning-based crop segmentation tool to carry out semantic segmentation of maize crops to determine if they are ready for harvest or not.
 
