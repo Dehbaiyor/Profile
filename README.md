@@ -9,14 +9,14 @@
 Machine learning engineer with 4 years of experience in using data analytics and machine learning to enhance processes and outcomes. Interested in applying skills in roles aimed at enhancing the utility of data-driven products while developing and acquiring new skills.  
 
 ## Core Competencies 
-- Computer Vison Libraries: (intermediate) OpenCV, imutils; (basic) PyTorchCV,  Scikit-Image
-- Deep Learning Frameworks: (intermediate) Keras, PyTorch; (basic) Fastai, Tensorflow 
-- Machine Learning Libraries: (intermediate) Numpy, Pandas, Scikit-Learn; (basic) Scipy
-- MLOps – (intermediate) SHAP AI Fairness 360; (basic) Docker, LIME, MLflow, TensorBoard
-- Natural Language Processing Libraries: (intermediate) Gensim, NLTK; (basic) spaCy, TextBlob 
-- Programming Tools: (intermediate) Python; (basic) C#, C++, Java, SQL
+- Computer Vison Libraries: (intermediate) OpenCV, imutils, PyTorchCV,  Scikit-Image
+- Deep Learning Frameworks: (intermediate) Keras, PyTorch, Tensorflow 
+- Machine Learning Libraries: (intermediate) Numpy, Pandas, Scikit-Learn, Scipy
+- MLOps – (intermediate) SHAP, AI Fairness 360, Docker, LIME, MLflow, TensorBoard
+- Natural Language Processing Libraries: (intermediate) Gensim, NLTK, spaCy, TextBlob 
+- Programming Tools: (intermediate) Python, C#, C++, Java, SQL
 - Scientific and Engineering Research 
-- Visualization Tools: (intermediate) Matplotlib, Seaborn; (basic) Bokeh, Geoplotlib, PowerBi
+- Visualization Tools: (intermediate) Matplotlib, Seaborn, Bokeh, Geoplotlib, PowerBi
 
 # PROFESSIONAL EXPERIENCE 
 ## AI Research Engineer, IBM Research
@@ -82,7 +82,7 @@ Certification in Data Science, 2019
 - Implemented a deep learning-based crop segmentation tool to carry out semantic segmentation of maize crops to determine if they are ready for harvest or not.
 
 ### WH-Questions Generation, Ranking and Answering Using Wikipedia Articles
-- Designed an automatic WH factoid questions generation, ranking and answering techniques from Wikipedia articles using machine learning, deep learning (T5-based transformer models), natural language processing, and sequence modelling.
+- Designed an automatic WH factoid questions generation, ranking, and answering techniques from Wikipedia articles using machine learning, deep learning (T5-based transformer models), natural language processing, and sequence modeling.
 
 ## Technical Papers, Presentations & Reports 
 - [Leak Detection in Natural Gas Pipelines Using Intelligent Models](https://www.onepetro.org/conference-paper/SPE-198738-MS) 
@@ -102,8 +102,3 @@ Certification in Data Science, 2019
 - 5-time recipient, Annual Deans’ Honors Award – University of Ibadan, 2014 – 2019. 
 - 3rd Position, Data Science Nigeria National Hackathon, October 2019. 
 - Recipient, CIT Dean's Fellowship Fund, Carnegie Mellon University.
-
-
-```python
-
-```
